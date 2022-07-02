@@ -5,7 +5,17 @@ h1{
     text-transform: capitalize;
 }
 
-/* .box1{
-    display:inline;
+
+.box1{
     text-align:center;
-} */
+    margin:10px auto 10px auto;
+}
+
+.box2{
+    text-align:center;
+}
+
+ .pic{
+    display:block;
+    margin:auto;
+ }
